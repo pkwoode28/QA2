@@ -1,0 +1,18 @@
+Bugs :
+
+Testcase 1  It is taking 2 seconds to return the job identifier
+
+Testcase 7 - Empty String is Acceptable Password in POST request to Hash Endpoint
+
+Testcase 9 - Key Other than password is Allowed to be Passed in POST Request to Hash Endpoint
+
+Testcase 13 -  Stats Endpoint Supports POST
+
+Testcase 14 -  GET Request on Stats Endpoint Accepts Data
+
+Testcase 15 - Total Requests is not Incremented Correctly
+
+taking more time to shutdown and restart. 
+
+
+
